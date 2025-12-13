@@ -42,7 +42,7 @@ This is a **full-stack project** with two main components:
 │  │         react-native-audio-recorder-player           │      │
 │  └──────────────────────────────────────────────────────┘      │
 │         │                                                      │
-│  ┌──────┴───────────────────────────────────────────────┐       │
+│  ┌──────┴───────────────────────────────────────────────┐      │
 │  │              Redux + Redux Persist                   │      │
 │  │           (Offline state management)                 │      │
 │  └──────────────────────────────────────────────────────┘      │
@@ -54,7 +54,7 @@ This is a **full-stack project** with two main components:
 │  │              Flask / FastAPI Server                  │      │
 │  │                                                      │      │
 │  │  ┌─────────────┐    ┌─────────────────────────┐      │      │
-│  │  │   Receive   │───▶│   Speech Recognition    │      │     │
+│  │  │   Receive   │───▶│   Speech Recognition    │      │      │
 │  │  │   .wav file │    │   (Google/Whisper API)  │      │      │
 │  │  └─────────────┘    └─────────────────────────┘      │      │
 │  │                              │                       │      │

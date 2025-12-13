@@ -6,9 +6,6 @@
 [![React Native](https://img.shields.io/badge/React_Native-0.70+-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 
-<p align="center">
-  <img src="screenshots/banner.png" alt="Voice Journal Banner" width="100%"/>
-</p>
 
 ## 📱 About
 
@@ -45,7 +42,7 @@ This is a **full-stack project** with two main components:
 │  │         react-native-audio-recorder-player           │      │
 │  └──────────────────────────────────────────────────────┘      │
 │         │                                                      │
-│  ┌──────┴──────────────────────────────────────────────┐       │
+│  ┌──────┴───────────────────────────────────────────────┐       │
 │  │              Redux + Redux Persist                   │      │
 │  │           (Offline state management)                 │      │
 │  └──────────────────────────────────────────────────────┘      │

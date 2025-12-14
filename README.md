@@ -51,11 +51,11 @@ This is a **full-stack project** with two main components:
 ├────────────────────────────────────────────────────────────────┤
 │                     BACKEND (Python)                           │
 │  ┌──────────────────────────────────────────────────────┐      │
-│  │              Flask / FastAPI Server                  │      │
+│  │              Flask                   │      │
 │  │                                                      │      │
 │  │  ┌─────────────┐    ┌─────────────────────────┐      │      │
-│  │  │   Receive   │───▶│   Speech Recognition    │      │      │
-│  │  │   .wav file │    │   (Google/Whisper API)  │      │      │
+│  │  │   Receive   │───▶│   Speech Recognition    │     │      │
+│  │  │   .wav file │    │                         │      │      │
 │  │  └─────────────┘    └─────────────────────────┘      │      │
 │  │                              │                       │      │
 │  │                              ▼                       │      │
@@ -79,8 +79,8 @@ Permissions         │  Android runtime permissions handling
 
 ### Backend (Python)
 ```
-Framework           │  Flask / FastAPI
-Speech Recognition  │  Google Speech-to-Text API
+Framework           │  Flask 
+Speech Recognition  │  Vosk API
 Audio Processing    │  WAV file handling
 Deployment          │  Custom VPS / Render.com
 ```
@@ -172,7 +172,3 @@ I'm **Xenia**, a full-stack mobile developer based in Italy. This project demons
 ## ⚠️ Source Code
 
 This repository contains **documentation and architecture overview only**. The source code is proprietary.
-
-## 📄 License
-
-© 2024 Xenia Galaktionova. All rights reserved.

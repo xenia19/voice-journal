@@ -82,7 +82,7 @@ Permissions         │  Android runtime permissions handling
 Framework           │  Flask 
 Speech Recognition  │  Vosk API
 Audio Processing    │  WAV file handling
-Deployment          │  Custom VPS / Render.com
+Deployment          │  Render.com
 ```
 
 ## 🧩 Technical Challenges & Solutions

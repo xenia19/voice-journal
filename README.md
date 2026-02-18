@@ -2,10 +2,14 @@
 
 > A voice journaling app that converts speech to text using custom Python backend with Speech Recognition.
 
-[![Google Play](https://img.shields.io/badge/Google_Play-1K+_downloads-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.voicejournal)
+![Status](https://img.shields.io/badge/Status-Internal_Testing-orange?style=for-the-badge&logo=googleplay&logoColor=white)
+
 [![React Native](https://img.shields.io/badge/React_Native-0.70+-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 
+### 🎥 Demo
+
+https://github.com/user-attachments/assets/b39da83c-a17b-4d34-827f-dd6330f4876e
 
 ## 📱 About
 

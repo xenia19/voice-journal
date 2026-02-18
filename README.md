@@ -139,10 +139,17 @@ Deployment          │  Render.com
 
 | Metric | Value |
 |--------|-------|
-| 📥 Downloads | **1,000+** |
 | 🤖 Full-stack | Mobile + Python Backend |
 | 🔄 API Calls | Speech-to-text processing |
 | 📱 Platform | Android |
+
+🔗 Links
+
+Resource | Link
+--- | ---
+📂 Source Code | [View on GitHub](https://github.com/xenia19/voice-journal)
+👩‍💻 Developer Portfolio | [Xenia's Portfolio](https://github.com/xenia19)
+🏆 Other Live Project | [Positive Audio Affirmations (10k+ users)](https://play.google.com/store/apps/details?id=com.voiceapp.voice)
 
 ## 🔐 Privacy
 
@@ -150,14 +157,6 @@ Deployment          │  Render.com
 - **Minimal data transfer:** Only audio sent for transcription
 - **No account required:** Full functionality without registration
 - **Transcription only:** Backend doesn't store audio files
-
-## 🔗 Links
-
-| Resource | Link |
-|----------|------|
-| 📲 Google Play | [Play Store](https://play.google.com/store/apps/details?id=com.voicejournal) |
-| 🎧 Main Project | [Positive Audio Affirmations](https://github.com/xenia19/affirmations-app) |
-| 👩‍💻 Developer | [Portfolio](https://xenia19.github.io/portfolio/) |
 
 ## 👩‍💻 About the Developer
 

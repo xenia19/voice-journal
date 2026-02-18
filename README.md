@@ -4,8 +4,8 @@
 
 ![Status](https://img.shields.io/badge/Status-Internal_Testing-orange?style=for-the-badge&logo=googleplay&logoColor=white)
 
-[![React Native](https://img.shields.io/badge/React_Native-0.70+-61DAFB?style=for-the-badge&logo=react&logoColor=white)]
-[![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![React Native](https://img.shields.io/badge/React_Native-0.70+-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 
 ### 🎥 Demo
 

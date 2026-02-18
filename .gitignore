@@ -1,0 +1,28 @@
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Node modules (Mobile)
+node_modules/
+npm-debug.log
+yarn-error.log
+.expo/
+dist/
+build/
+android/app/build/
+ios/build/
+
+# Python (Backend)
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+instance/
+.pytest_cache/
+
+# Sensitive Data
+*.key
+*.keystore
+google-services.json
+GoogleService-Info.plist

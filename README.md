@@ -167,8 +167,3 @@ I'm **Xenia**, a full-stack mobile developer based in Italy. This project demons
 - 📦 State management with Redux
 - 🔒 Android permissions handling
 
----
-
-## ⚠️ Source Code
-
-This repository contains **documentation and architecture overview only**. The source code is proprietary.
